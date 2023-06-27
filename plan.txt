@@ -6,6 +6,7 @@ Session 5
     - pivot tables
 
 Session 6
+    - pd.concat
     - joining
     - apply, applymap
     - filter
