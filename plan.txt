@@ -1,6 +1,5 @@
 Session 5
     - notebook 7
-    - larger data
     - multi-indexes
     - sorting
     - grouping
