@@ -4,9 +4,9 @@ Session 5
     - multi-indexes
     - sorting
     - grouping
-    - pivot tables
 
 Session 6
+    - pivot tables
     - pd.concat
     - joining
     - apply, applymap
