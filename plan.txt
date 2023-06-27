@@ -1,0 +1,20 @@
+Session 5
+    - notebook 7
+    - multi-indexes
+    - sorting
+    - grouping
+    - pivot tables
+
+Session 6
+    - joining
+    - apply, applymap
+    - filter
+    - stack/unstack, melt/unmelt
+
+Session 7
+    - Dates and times
+
+Session 8
+    - Plotting with Seaborn
+    - Optimizing
+    - Parallelizing
